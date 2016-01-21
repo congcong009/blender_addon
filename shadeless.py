@@ -1,6 +1,6 @@
 bl_info = {
     'name': 'Shadeless Material',
-    'author': 'Ethan Luo, congcong009, (http://www.blendercg.com)',
+    'author': 'Ethan Luo, congcong009, (http://www.blenderget.com)',
     'version': (0,1),
     "blender": (2, 6, 5),
     "api": 52859,

@@ -1,7 +1,7 @@
 blender_addon script
 =============
 
-blender addon for blendercg.com
+blender addon for blenderget.com
 
 copyright by congcong009 in cc by none-conmerical 
 
